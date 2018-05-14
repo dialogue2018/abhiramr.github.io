@@ -64,13 +64,14 @@ The finale episodes have also been omitted from this analysis.
 ### Results:
 
 The main result was a set of graphs based on the following criteria I chose -
-a) % of dialogues per episode of Elaine vs Kramer
-b) % of dialogues per episode of Elaine vs George
-c) % of dialogues per episode of George vs Kramer
-d) Episodes in which Frank Costanza featured 
-e) Episodes in which Susan featured
-f) Episodes in which Jackie Chiles featured
-g) Episodes in which Newman featured
+
+1. % of dialogues per episode of Elaine vs Kramer
+2. % of dialogues per episode of Elaine vs George
+3. % of dialogues per episode of George vs Kramer
+4. Episodes in which Frank Costanza featured 
+5. Episodes in which Susan featured
+6. Episodes in which Jackie Chiles featured
+7. Episodes in which Newman featured
 
 Other miscellaneous graphs were also computed.
 
@@ -82,19 +83,19 @@ The X-axis for all graphs shows the episode number (albeit unclear) and the Y-ax
 Understandably, Jerry has the largest number of dialogues in every episode.
 
 
-a) Elaine vs George :
+__1. Elaine vs George :__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/ElaineVsGeorge.png)
 
 The trend shows that George (~20–30%) always has more screen space than Elaine(~5–25%) .
 
-b) Elaine vs Kramer :
+__2. Elaine vs Kramer :__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/ElaineVsKramer.png)
 
 While they seem to be uniformly matched for the most part, it looks like Elaine almost always has more to say than Kramer, atleast for the first 60% of the total number of episodes. Towards the end however, Kramer seems to be having more to say.
 
-c) George vs Kramer:
+__3. George vs Kramer:__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/GeorgeVsKramer.png)
 
@@ -102,25 +103,25 @@ No surprises here. George dominates with ~20–30% of the conversations while Kr
 
 So, we see that in terms of main character importance, Jerry > George > (Elaine = Kramer). Moving on,
 
-d) Frank Costanza:
+__4. Frank Costanza:__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/Frank.png)
 
 Frank Costanza first appears in episode 62 — “The Handicap Spot” and finally in episode 166 — “The Strike” (the legendary Festivus episode) barring the finale episodes.
 
-e) Susan Ross
+__5. Susan Ross__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/Susan.png)
 
 Susan first appears in episode 43 — “The Pitch” and finally in episode 134 — “The Invitations”, when… you know..
 
-f) Jackie Chiles
+__6. Jackie Chiles__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/Jackie.png)
 
 Jackie Chiles plays a major role in only 3 episodes Episodes 113, 122 and 143, again barring the Finale. I finally have my answer :D
 
-g) Newman
+__7. Newman__
 
 ![GitHub Logo](https://raw.githubusercontent.com/abhiramr/DataViz/master/Seinfeld/Newman.png)
 
