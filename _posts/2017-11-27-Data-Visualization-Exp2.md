@@ -148,33 +148,9 @@ I’ll expand on the Readme file soon to indicate which files need to be focusse
 
 __Closer look at the heatmap__ — [Here](https://cdn.rawgit.com/abhiramr/DataViz/41337b35/Fb_Usage/Experiment_2_PostsVisualized/Facebook_Analysis_19_11_2017/FB-FrontEnd/fb_results_viz.html) (You'll have to wait for 45 seconds for the entire graph to load :-/ Hey, you wait 2 whole minutes for popcorn, don’t you?) — Seriously though, needs speed-up.
 
+##### Also Published In —
+[Hacker Noon](https://hackernoon.com/data-visualization-experiment-1-f34a10679b8)
+
 
 Thanks for reading!
 
-
-
-![GitHub Logo](https://raw.githubusercontent.com/abhiramr/Old_Website_2/master/images/01_data_viz_1.png)
-
-***
-
-
-#### What does this show?
-The colors have no bearing, but the sizes of the bubbles indicate the number of posts, well, posted in that hour — the larger bubbles indicating more activity during that period and the smallest ones being the least amount of activity in that hour. The inference being that I have wasted a tremendous amount of time on Facebook during almost every hour of the day over the last 9 year time-period for which this data was obtained, save for the 2am — 6am mark. This also illustrates a seemingly poor sleep pattern.
-
-#### What haven’t I taken into account?
-A lot of people post on my wall on Facebook on my birthday. But this number which varies around the 100–150 mark every year is scattered across all hours (around 10 posts approx. every hour) of the day and this outlier, I feel, can be safely neglected.
-
-#### What’s next?
-I’m hoping to glean some more insights (useful ones hopefully) from this data and will post the results as a follow-up to this blog.
-
-
-Feel free to try this out for yourself if you’re interested in insights that you can probably intuitively already find out without going through this procedure or are just looking to wade into the basics of Data Visualization just to feel like you’ve started something rudimentary along these lines for your satisfaction ..like I did.
-
-##### Reference material —
-https://www.facebook.com/help/302796099745838 https://doc.scrapy.org/en/latest/topics/shell.html
-https://bl.ocks.org/mbostock/4063269
-
-##### Source Code —
-https://github.com/abhiramr/DataViz/tree/master/Fb_Usage
-##### Also Published In —
-[Hacker Noon](https://hackernoon.com/data-visualization-experiment-1-f34a10679b8)
