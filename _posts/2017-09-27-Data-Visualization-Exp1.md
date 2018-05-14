@@ -1,7 +1,7 @@
 ### Hours of max FB Usage —
 I originally intended to do something else, but ended up doing this instead  —  Figuring out at what hours during the day I’ve been most active on Facebook — outliers included.
 
-##### How?
+### How?
 - Downloaded my entire Facebook data - This can be done using the Facebook APIs or using the less painful way — requesting for a copy of your Facebook data as a zip file from your Settings panel.
 
 - Scraped this local webpage’s timeline section after hosting it on a local server with a simple Python script using Scrapy and extracted only the timestamps for all the posts and stored it in a CSV.
@@ -19,13 +19,13 @@ The result was this gloriously satisfying and insightful bubble chart.
 ***
 
 
-##### What does this show?
+### What does this show?
 The colors have no bearing, but the sizes of the bubbles indicate the number of posts, well, posted in that hour — the larger bubbles indicating more activity during that period and the smallest ones being the least amount of activity in that hour. The inference being that I have wasted a tremendous amount of time on Facebook during almost every hour of the day over the last 9 year time-period for which this data was obtained, save for the 2am — 6am mark. This also illustrates a seemingly poor sleep pattern.
 
-##### What haven’t I taken into account?
+### What haven’t I taken into account?
 A lot of people post on my wall on Facebook on my birthday. But this number which varies around the 100–150 mark every year is scattered across all hours (around 10 posts approx. every hour) of the day and this outlier, I feel, can be safely neglected.
 
-##### What’s next?
+### What’s next?
 I’m hoping to glean some more insights (useful ones hopefully) from this data and will post the results as a follow-up to this blog.
 
 
