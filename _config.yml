@@ -11,23 +11,17 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Abhiram R
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Quis Custodiet Ipsos Custodes?
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   # About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
-#     - GitHub Pages: "https://pages.github.com/"
   Non-Tech Writing: "http://abhiwrites.com"
   Categories:
 
@@ -78,16 +72,16 @@ social-network-links:
   github: abhiramr
   twitter: abhi5459
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  google-plus: +username
+#  linkedin: username
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "userid/username"
+#  snapchat: 
+#  instagram: 
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: <contact>
+#  steam: steamid
 #  twitch: yourname
 #  yelp: yourname
 
@@ -137,7 +131,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Calcutta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
