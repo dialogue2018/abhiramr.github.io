@@ -1,7 +1,6 @@
+You’re probably aware of most of the products that Google offers. Trends, is one of them and it allows you to look up various trends of searches by time, country etc. It’s a lot of fun…if you’re into that sort of thing.
 <p align="center">
 <img src="../img/glass_128.png"></p>
-
-You’re probably aware of most of the products that Google offers. Trends, is one of them and it allows you to look up various trends of searches by time, country etc. It’s a lot of fun…if you’re into that sort of thing.
 
 I was randomly searching for usages of English words on Google Trends (as one does) and as I went through words of no real significance — boat, silo etc, at one point paused and almost on a whim looked up “Batman” , juust to see if people search for knowledge about the caped crusader on a daily basis.
 
