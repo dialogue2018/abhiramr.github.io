@@ -133,7 +133,8 @@ This experiment was a lot of fun. I hope to fill in the blanks in the next ones 
 ### SERENITY NOW!!!!
 
 [1] [http://www.seinfeldscripts.com/seinfeld-scripts.html](http://www.seinfeldscripts.com/seinfeld-scripts.html)
-Code : [https://github.com/abhiii5459/DataViz/blob/master/Seinfeld/Seinfeld_Analysis.ipynb](https://github.com/abhiii5459/DataViz/blob/master/Seinfeld/Seinfeld_Analysis.ipynb)
+
+[2] Code : [https://github.com/abhiii5459/DataViz/blob/master/Seinfeld/Seinfeld_Analysis.ipynb](https://github.com/abhiii5459/DataViz/blob/master/Seinfeld/Seinfeld_Analysis.ipynb)
 
 
 {% if page.comments %}
